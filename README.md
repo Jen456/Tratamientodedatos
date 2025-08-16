@@ -1,0 +1,1 @@
+Hola, soy del paralelo A, de la clase de Tratamiento de Datos
